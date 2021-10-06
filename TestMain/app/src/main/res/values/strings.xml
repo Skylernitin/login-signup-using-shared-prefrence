@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Main</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="passworderror">The password must contain at least 8 character containing, at least one letter and one number</string>
+</resources>
